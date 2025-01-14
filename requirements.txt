@@ -1,0 +1,3 @@
+AWS LAMBDA
+AWS Eventbridge
+AWS Simple Notification Service
